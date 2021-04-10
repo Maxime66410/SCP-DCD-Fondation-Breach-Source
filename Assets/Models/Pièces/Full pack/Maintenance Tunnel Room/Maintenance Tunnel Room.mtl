@@ -1,0 +1,92 @@
+newmtl Part149Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.8 0.8 0.8 
+
+d 1
+
+Ns 120
+
+map_Ka Part149Tex.png
+map_Kd Part149Tex.png
+map_d Part149Tex.png
+
+newmtl Part87Mtl
+Material Color
+Ka 0.891262 0.899385 0.899385
+Kd 0.891262 0.899385 0.899385
+Ks 0.71301 0.719508 0.719508 
+
+d 1
+
+Ns 120
+
+newmtl Part9Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.298892 0.294873 0.30702 
+
+d 1
+
+Ns 120
+
+newmtl Part3Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0997928 0.0911368 0.0975886 
+
+d 1
+
+Ns 120
+
+newmtl Part39Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.14902 0.14902 0.14902 
+
+d 1
+
+Ns 22
+
+map_Ka Part39Tex.png
+map_Kd Part39Tex.png
+map_d Part39Tex.png
+
+newmtl Part2Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0185889 0.0169765 0.0181783 
+
+d 1
+
+Ns 22
+
+newmtl Part1Mtl
+Material Color
+Ka 0.618686 0.618686 0.618686
+Kd 0.618686 0.618686 0.618686
+Ks 0.494949 0.494949 0.494949 
+
+d 1
+
+Ns 120
+
+newmtl Teleportingduck1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.74902 0.74902 0.74902 
+
+d 1
+
+Ns 81
+
+map_Ka Teleportingduck1Tex.png
+map_Kd Teleportingduck1Tex.png
+map_d Teleportingduck1Tex.png
+

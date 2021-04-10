@@ -1,0 +1,140 @@
+newmtl Doormain8Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.8 0.8 0.8 
+
+d 1
+
+Ns 120
+
+map_Ka Doormain8Tex.png
+map_Kd Doormain8Tex.png
+map_d Doormain8Tex.png
+
+newmtl Doormain6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.8 0.8 0.8 
+
+d 1
+
+Ns 120
+
+map_Ka Doormain6Tex.png
+map_Kd Doormain6Tex.png
+map_d Doormain6Tex.png
+
+newmtl Doormain2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.8 0.8 0.8 
+
+d 1
+
+Ns 120
+
+map_Ka Doormain2Tex.png
+map_Kd Doormain2Tex.png
+map_d Doormain2Tex.png
+
+newmtl Doormain4Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.8 0.8 0.8 
+
+d 1
+
+Ns 120
+
+map_Ka Doormain4Tex.png
+map_Kd Doormain4Tex.png
+map_d Doormain4Tex.png
+
+newmtl Cylinder1Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0997928 0.0911368 0.0975886 
+
+d 1
+
+Ns 120
+
+newmtl Ball1Mtl
+Material Color
+Ka 0.306635 0.193972 0.186989
+Kd 0.306635 0.193972 0.186989
+Ks 0.245308 0.155178 0.149591 
+
+d 1
+
+Ns 120
+
+newmtl Part6Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.279845 0.276082 0.287455 
+
+d 1
+
+Ns 81
+
+newmtl Doormain3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.8 0.8 0.8 
+
+d 1
+
+Ns 120
+
+map_Ka Doormain3Tex.png
+map_Kd Doormain3Tex.png
+map_d Doormain3Tex.png
+
+newmtl Part5Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.00535926 0.0141662 0.0236326 
+
+d 1
+
+Ns 81
+
+newmtl Part4Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0934334 0.085329 0.0913697 
+
+d 1
+
+Ns 81
+
+newmtl Part3Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0185889 0.0169765 0.0181783 
+
+d 1
+
+Ns 22
+
+newmtl Part1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.298892 0.294873 0.30702 
+
+d 1
+
+Ns 120
+

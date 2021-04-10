@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: e7e704eda6875114e82f731808ad08bf
+timeCreated: 1522424129
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone_019
+    100002: Bone_042
+    100004: Bone_042_end
+    100006: //RootNode
+    100008: SCP-049 (Classic)
+    100010: SCP-049 (Classic)_arm
+    100012: SCP-049 (Classic)_mesh
+    100014: "\u3064\u307E\u5148\uFF29\uFF2B\u5148.L"
+    100016: "\u3064\u307E\u5148\uFF29\uFF2B\u5148.L_end"
+    100018: "\u3064\u307E\u5148\uFF29\uFF2B\u5148.R"
+    100020: "\u3064\u307E\u5148\uFF29\uFF2B\u5148.R_end"
+    100022: "\u3072\u3056.L"
+    100024: "\u3072\u3056.R"
+    100026: "\u3072\u3058.L"
+    100028: "\u3072\u3058.R"
+    100030: "\u30BB\u30F3\u30BF\u30FC"
+    100032: "\u30BB\u30F3\u30BF\u30FC\u5148"
+    100034: "\u30BB\u30F3\u30BF\u30FC\u5148_end"
+    100036: "\u4E0A\u534A\u8EAB"
+    100038: "\u4E0A\u534A\u8EAB\uFF12"
+    100040: "\u4E0A\u534A\u8EAB\uFF13"
+    100042: "\u4E0A\u534A\u8EAB\uFF13_end"
+    100044: "\u4E0B\u534A\u8EAB"
+    100046: "\u4E0B\u534A\u8EAB\u5148"
+    100048: "\u4E73\u5148.L"
+    100050: "\u4E73\u5148.L_end"
+    100052: "\u5168\u3066\u306E\u89AA"
+    100054: "\u624B\u9996.L"
+    100056: "\u624B\u9996.L_end"
+    100058: "\u624B\u9996.R"
+    100060: "\u80A9.L"
+    100062: "\u80A9.R"
+    100064: "\u8155.L"
+    100066: "\u8155.R"
+    100068: "\u8DB3.L"
+    100070: "\u8DB3.R"
+    100072: "\u8DB3\u9996.L"
+    100074: "\u8DB3\u9996.L_end"
+    100076: "\u8DB3\u9996.R"
+    100078: "\u8DB3\u9996.R_end"
+    100080: "\u8DB3\uFF29\uFF2B.L"
+    100082: "\u8DB3\uFF29\uFF2B.R"
+    100084: "\u8DB3\uFF29\uFF2B\u5148.L"
+    100086: "\u8DB3\uFF29\uFF2B\u5148.L_end"
+    100088: "\u8DB3\uFF29\uFF2B\u5148.R"
+    100090: "\u8DB3\uFF29\uFF2B\u5148.R_end"
+    100092: "\u982D"
+    100094: "\u982D_end"
+    100096: "\u9996"
+    400000: Bone_019
+    400002: Bone_042
+    400004: Bone_042_end
+    400006: //RootNode
+    400008: SCP-049 (Classic)
+    400010: SCP-049 (Classic)_arm
+    400012: SCP-049 (Classic)_mesh
+    400014: "\u3064\u307E\u5148\uFF29\uFF2B\u5148.L"
+    400016: "\u3064\u307E\u5148\uFF29\uFF2B\u5148.L_end"
+    400018: "\u3064\u307E\u5148\uFF29\uFF2B\u5148.R"
+    400020: "\u3064\u307E\u5148\uFF29\uFF2B\u5148.R_end"
+    400022: "\u3072\u3056.L"
+    400024: "\u3072\u3056.R"
+    400026: "\u3072\u3058.L"
+    400028: "\u3072\u3058.R"
+    400030: "\u30BB\u30F3\u30BF\u30FC"
+    400032: "\u30BB\u30F3\u30BF\u30FC\u5148"
+    400034: "\u30BB\u30F3\u30BF\u30FC\u5148_end"
+    400036: "\u4E0A\u534A\u8EAB"
+    400038: "\u4E0A\u534A\u8EAB\uFF12"
+    400040: "\u4E0A\u534A\u8EAB\uFF13"
+    400042: "\u4E0A\u534A\u8EAB\uFF13_end"
+    400044: "\u4E0B\u534A\u8EAB"
+    400046: "\u4E0B\u534A\u8EAB\u5148"
+    400048: "\u4E73\u5148.L"
+    400050: "\u4E73\u5148.L_end"
+    400052: "\u5168\u3066\u306E\u89AA"
+    400054: "\u624B\u9996.L"
+    400056: "\u624B\u9996.L_end"
+    400058: "\u624B\u9996.R"
+    400060: "\u80A9.L"
+    400062: "\u80A9.R"
+    400064: "\u8155.L"
+    400066: "\u8155.R"
+    400068: "\u8DB3.L"
+    400070: "\u8DB3.R"
+    400072: "\u8DB3\u9996.L"
+    400074: "\u8DB3\u9996.L_end"
+    400076: "\u8DB3\u9996.R"
+    400078: "\u8DB3\u9996.R_end"
+    400080: "\u8DB3\uFF29\uFF2B.L"
+    400082: "\u8DB3\uFF29\uFF2B.R"
+    400084: "\u8DB3\uFF29\uFF2B\u5148.L"
+    400086: "\u8DB3\uFF29\uFF2B\u5148.L_end"
+    400088: "\u8DB3\uFF29\uFF2B\u5148.R"
+    400090: "\u8DB3\uFF29\uFF2B\u5148.R_end"
+    400092: "\u982D"
+    400094: "\u982D_end"
+    400096: "\u9996"
+    4300000: SCP-049 (Classic)_mesh
+    9500000: //RootNode
+    13700000: SCP-049 (Classic)_mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

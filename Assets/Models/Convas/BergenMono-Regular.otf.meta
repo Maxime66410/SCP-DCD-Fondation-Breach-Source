@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 73222ad25d8167049a1503ff3dde855e
+timeCreated: 1523134900
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bergen Mono
+  fontNames:
+  - Bergen Mono
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

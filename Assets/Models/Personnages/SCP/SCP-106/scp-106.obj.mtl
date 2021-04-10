@@ -1,0 +1,11 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.3.0)
+
+newmtl 106
+Kd 0.8000000715255737 0.8000000715255737 0.8000000715255737
+Ks 0.390625 0.390625 0.390625
+d 1
+Ns 50
+illum 2
+map_Kd D:\SCP - CB - Vanilla\GFX\npcs\106_diffuse.jpg
+

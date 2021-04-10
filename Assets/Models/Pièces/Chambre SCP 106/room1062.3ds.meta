@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: c807eb93bac621e4bae2cdee7faebbac
+timeCreated: 1524486969
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: classname=brush
+    100002: classname=brush 1
+    100004: classname=brush 10
+    100006: classname=brush 11
+    100008: classname=brush 12
+    100010: classname=brush 13
+    100012: classname=brush 14
+    100014: classname=brush 15
+    100016: classname=brush 16
+    100018: classname=brush 17
+    100020: classname=brush 18
+    100022: classname=brush 19
+    100024: classname=brush 2
+    100026: classname=brush 20
+    100028: classname=brush 21
+    100030: classname=brush 22
+    100032: classname=brush 23
+    100034: classname=brush 24
+    100036: classname=brush 25
+    100038: classname=brush 26
+    100040: classname=brush 27
+    100042: classname=brush 28
+    100044: classname=brush 29
+    100046: classname=brush 3
+    100048: classname=brush 30
+    100050: classname=brush 31
+    100052: classname=brush 32
+    100054: classname=brush 33
+    100056: classname=brush 34
+    100058: classname=brush 35
+    100060: classname=brush 36
+    100062: classname=brush 37
+    100064: classname=brush 38
+    100066: classname=brush 39
+    100068: classname=brush 4
+    100070: classname=brush 40
+    100072: classname=brush 41
+    100074: classname=brush 42
+    100076: classname=brush 43
+    100078: classname=brush 44
+    100080: classname=brush 45
+    100082: classname=brush 46
+    100084: classname=brush 47
+    100086: classname=brush 48
+    100088: classname=brush 5
+    100090: classname=brush 6
+    100092: classname=brush 7
+    100094: classname=brush 8
+    100096: classname=brush 9
+    100098: classname=brush_0
+    100100: classname=brush_1
+    100102: classname=brush_10
+    100104: classname=brush_11
+    100106: classname=brush_12
+    100108: classname=brush_13
+    100110: classname=brush_14
+    100112: classname=brush_15
+    100114: classname=brush_16
+    100116: classname=brush_17
+    100118: classname=brush_18
+    100120: classname=brush_19
+    100122: classname=brush_2
+    100124: classname=brush_20
+    100126: classname=brush_21
+    100128: classname=brush_22
+    100130: classname=brush_23
+    100132: classname=brush_24
+    100134: classname=brush_25
+    100136: classname=brush_26
+    100138: classname=brush_27
+    100140: classname=brush_28
+    100142: classname=brush_29
+    100144: classname=brush_3
+    100146: classname=brush_30
+    100148: classname=brush_31
+    100150: classname=brush_32
+    100152: classname=brush_33
+    100154: classname=brush_34
+    100156: classname=brush_35
+    100158: classname=brush_36
+    100160: classname=brush_37
+    100162: classname=brush_38
+    100164: classname=brush_39
+    100166: classname=brush_4
+    100168: classname=brush_40
+    100170: classname=brush_41
+    100172: classname=brush_42
+    100174: classname=brush_43
+    100176: classname=brush_44
+    100178: classname=brush_45
+    100180: classname=brush_46
+    100182: classname=brush_47
+    100184: classname=brush_48
+    100186: classname=brush_5
+    100188: classname=brush_6
+    100190: classname=brush_7
+    100192: classname=brush_8
+    100194: classname=brush_9
+    100196: //RootNode
+    400000: classname=brush
+    400002: classname=brush 1
+    400004: classname=brush 10
+    400006: classname=brush 11
+    400008: classname=brush 12
+    400010: classname=brush 13
+    400012: classname=brush 14
+    400014: classname=brush 15
+    400016: classname=brush 16
+    400018: classname=brush 17
+    400020: classname=brush 18
+    400022: classname=brush 19
+    400024: classname=brush 2
+    400026: classname=brush 20
+    400028: classname=brush 21
+    400030: classname=brush 22
+    400032: classname=brush 23
+    400034: classname=brush 24
+    400036: classname=brush 25
+    400038: classname=brush 26
+    400040: classname=brush 27
+    400042: classname=brush 28
+    400044: classname=brush 29
+    400046: classname=brush 3
+    400048: classname=brush 30
+    400050: classname=brush 31
+    400052: classname=brush 32
+    400054: classname=brush 33
+    400056: classname=brush 34
+    400058: classname=brush 35
+    400060: classname=brush 36
+    400062: classname=brush 37
+    400064: classname=brush 38
+    400066: classname=brush 39
+    400068: classname=brush 4
+    400070: classname=brush 40
+    400072: classname=brush 41
+    400074: classname=brush 42
+    400076: classname=brush 43
+    400078: classname=brush 44
+    400080: classname=brush 45
+    400082: classname=brush 46
+    400084: classname=brush 47
+    400086: classname=brush 48
+    400088: classname=brush 5
+    400090: classname=brush 6
+    400092: classname=brush 7
+    400094: classname=brush 8
+    400096: classname=brush 9
+    400098: classname=brush_0
+    400100: classname=brush_1
+    400102: classname=brush_10
+    400104: classname=brush_11
+    400106: classname=brush_12
+    400108: classname=brush_13
+    400110: classname=brush_14
+    400112: classname=brush_15
+    400114: classname=brush_16
+    400116: classname=brush_17
+    400118: classname=brush_18
+    400120: classname=brush_19
+    400122: classname=brush_2
+    400124: classname=brush_20
+    400126: classname=brush_21
+    400128: classname=brush_22
+    400130: classname=brush_23
+    400132: classname=brush_24
+    400134: classname=brush_25
+    400136: classname=brush_26
+    400138: classname=brush_27
+    400140: classname=brush_28
+    400142: classname=brush_29
+    400144: classname=brush_3
+    400146: classname=brush_30
+    400148: classname=brush_31
+    400150: classname=brush_32
+    400152: classname=brush_33
+    400154: classname=brush_34
+    400156: classname=brush_35
+    400158: classname=brush_36
+    400160: classname=brush_37
+    400162: classname=brush_38
+    400164: classname=brush_39
+    400166: classname=brush_4
+    400168: classname=brush_40
+    400170: classname=brush_41
+    400172: classname=brush_42
+    400174: classname=brush_43
+    400176: classname=brush_44
+    400178: classname=brush_45
+    400180: classname=brush_46
+    400182: classname=brush_47
+    400184: classname=brush_48
+    400186: classname=brush_5
+    400188: classname=brush_6
+    400190: classname=brush_7
+    400192: classname=brush_8
+    400194: classname=brush_9
+    400196: //RootNode
+    2300000: classname=brush_0
+    2300002: classname=brush_1
+    2300004: classname=brush_10
+    2300006: classname=brush_11
+    2300008: classname=brush_12
+    2300010: classname=brush_13
+    2300012: classname=brush_14
+    2300014: classname=brush_15
+    2300016: classname=brush_16
+    2300018: classname=brush_17
+    2300020: classname=brush_18
+    2300022: classname=brush_19
+    2300024: classname=brush_2
+    2300026: classname=brush_20
+    2300028: classname=brush_21
+    2300030: classname=brush_22
+    2300032: classname=brush_23
+    2300034: classname=brush_24
+    2300036: classname=brush_25
+    2300038: classname=brush_26
+    2300040: classname=brush_27
+    2300042: classname=brush_28
+    2300044: classname=brush_29
+    2300046: classname=brush_3
+    2300048: classname=brush_30
+    2300050: classname=brush_31
+    2300052: classname=brush_32
+    2300054: classname=brush_33
+    2300056: classname=brush_34
+    2300058: classname=brush_35
+    2300060: classname=brush_36
+    2300062: classname=brush_37
+    2300064: classname=brush_38
+    2300066: classname=brush_39
+    2300068: classname=brush_4
+    2300070: classname=brush_40
+    2300072: classname=brush_41
+    2300074: classname=brush_42
+    2300076: classname=brush_43
+    2300078: classname=brush_44
+    2300080: classname=brush_45
+    2300082: classname=brush_46
+    2300084: classname=brush_47
+    2300086: classname=brush_48
+    2300088: classname=brush_5
+    2300090: classname=brush_6
+    2300092: classname=brush_7
+    2300094: classname=brush_8
+    2300096: classname=brush_9
+    3300000: classname=brush_0
+    3300002: classname=brush_1
+    3300004: classname=brush_10
+    3300006: classname=brush_11
+    3300008: classname=brush_12
+    3300010: classname=brush_13
+    3300012: classname=brush_14
+    3300014: classname=brush_15
+    3300016: classname=brush_16
+    3300018: classname=brush_17
+    3300020: classname=brush_18
+    3300022: classname=brush_19
+    3300024: classname=brush_2
+    3300026: classname=brush_20
+    3300028: classname=brush_21
+    3300030: classname=brush_22
+    3300032: classname=brush_23
+    3300034: classname=brush_24
+    3300036: classname=brush_25
+    3300038: classname=brush_26
+    3300040: classname=brush_27
+    3300042: classname=brush_28
+    3300044: classname=brush_29
+    3300046: classname=brush_3
+    3300048: classname=brush_30
+    3300050: classname=brush_31
+    3300052: classname=brush_32
+    3300054: classname=brush_33
+    3300056: classname=brush_34
+    3300058: classname=brush_35
+    3300060: classname=brush_36
+    3300062: classname=brush_37
+    3300064: classname=brush_38
+    3300066: classname=brush_39
+    3300068: classname=brush_4
+    3300070: classname=brush_40
+    3300072: classname=brush_41
+    3300074: classname=brush_42
+    3300076: classname=brush_43
+    3300078: classname=brush_44
+    3300080: classname=brush_45
+    3300082: classname=brush_46
+    3300084: classname=brush_47
+    3300086: classname=brush_48
+    3300088: classname=brush_5
+    3300090: classname=brush_6
+    3300092: classname=brush_7
+    3300094: classname=brush_8
+    3300096: classname=brush_9
+    4300000: classname=brush_0
+    4300002: classname=brush_1
+    4300004: classname=brush_2
+    4300006: classname=brush_3
+    4300008: classname=brush_4
+    4300010: classname=brush_5
+    4300012: classname=brush_6
+    4300014: classname=brush_7
+    4300016: classname=brush_8
+    4300018: classname=brush_9
+    4300020: classname=brush_10
+    4300022: classname=brush_11
+    4300024: classname=brush_12
+    4300026: classname=brush_13
+    4300028: classname=brush_14
+    4300030: classname=brush_15
+    4300032: classname=brush_16
+    4300034: classname=brush_17
+    4300036: classname=brush_18
+    4300038: classname=brush_19
+    4300040: classname=brush_20
+    4300042: classname=brush_21
+    4300044: classname=brush_22
+    4300046: classname=brush_23
+    4300048: classname=brush_24
+    4300050: classname=brush_25
+    4300052: classname=brush_26
+    4300054: classname=brush_27
+    4300056: classname=brush_28
+    4300058: classname=brush_29
+    4300060: classname=brush_30
+    4300062: classname=brush_31
+    4300064: classname=brush_32
+    4300066: classname=brush_33
+    4300068: classname=brush_34
+    4300070: classname=brush_35
+    4300072: classname=brush_36
+    4300074: classname=brush_37
+    4300076: classname=brush_38
+    4300078: classname=brush_39
+    4300080: classname=brush_40
+    4300082: classname=brush_41
+    4300084: classname=brush_42
+    4300086: classname=brush_43
+    4300088: classname=brush_44
+    4300090: classname=brush_45
+    4300092: classname=brush_46
+    4300094: classname=brush_47
+    4300096: classname=brush_48
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

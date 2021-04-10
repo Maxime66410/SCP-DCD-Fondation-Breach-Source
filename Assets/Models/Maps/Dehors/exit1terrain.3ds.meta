@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 4f5b38af08d3b274684dd11a15714c36
+timeCreated: 1524485914
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: classname=light__color=244 237 204__intensity=1.5__range=7000__linearfalloff=0
+    100002: classname=light__color=244 237 204__intensity=1.9__range=7000__linearfalloff=0
+    100004: classname=terrain
+    100006: classname=terrainsector
+    100008: classname=terrainsector 1
+    100010: classname=terrainsector 2
+    100012: classname=terrainsector 3
+    100014: classname=terrainsector_0
+    100016: classname=terrainsector_0 1
+    100018: classname=terrainsector_1
+    100020: classname=terrainsector_1 1
+    100022: classname=terrainsector_2
+    100024: classname=terrainsector_2 1
+    100026: classname=terrainsector_3
+    100028: classname=terrainsector_3 1
+    100030: //RootNode
+    400000: classname=light__color=244 237 204__intensity=1.5__range=7000__linearfalloff=0
+    400002: classname=light__color=244 237 204__intensity=1.9__range=7000__linearfalloff=0
+    400004: classname=terrain
+    400006: classname=terrainsector
+    400008: classname=terrainsector 1
+    400010: classname=terrainsector 2
+    400012: classname=terrainsector 3
+    400014: classname=terrainsector_0
+    400016: classname=terrainsector_0 1
+    400018: classname=terrainsector_1
+    400020: classname=terrainsector_1 1
+    400022: classname=terrainsector_2
+    400024: classname=terrainsector_2 1
+    400026: classname=terrainsector_3
+    400028: classname=terrainsector_3 1
+    400030: //RootNode
+    2300000: classname=terrainsector_0
+    2300002: classname=terrainsector_0 1
+    2300004: classname=terrainsector_1
+    2300006: classname=terrainsector_1 1
+    2300008: classname=terrainsector_2
+    2300010: classname=terrainsector_2 1
+    2300012: classname=terrainsector_3
+    2300014: classname=terrainsector_3 1
+    3300000: classname=terrainsector_0
+    3300002: classname=terrainsector_0 1
+    3300004: classname=terrainsector_1
+    3300006: classname=terrainsector_1 1
+    3300008: classname=terrainsector_2
+    3300010: classname=terrainsector_2 1
+    3300012: classname=terrainsector_3
+    3300014: classname=terrainsector_3 1
+    4300000: classname=terrainsector_0
+    4300002: classname=terrainsector_1
+    4300004: classname=terrainsector_2
+    4300006: classname=terrainsector_3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

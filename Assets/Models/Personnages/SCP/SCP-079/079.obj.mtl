@@ -1,0 +1,56 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.3.0)
+
+newmtl 079_computer_1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 079_computer_1.jpg
+
+newmtl 079_computer_2
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 079_computer_2.jpg
+
+newmtl JoinedMaterial_#8
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 079_peripherals.jpg
+
+newmtl JoinedMaterial_#6
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 079_monitor.jpg
+
+newmtl 079_monitor_screen
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 079-monitor-screen.jpg
+
+newmtl black
+Kd 0.001000000047497451 0.001000000047497451 0.001000000047497451
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl cable1
+Kd 0.7568712830543518 0.7669000029563904 0.701713502407074
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl cable2
+Kd 0.1102930009365082 0.1173330023884773 0.1102930009365082
+Ks 0 0 0
+d 1
+illum 1
+
